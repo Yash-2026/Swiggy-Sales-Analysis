@@ -34,21 +34,6 @@ The workflow followed in this project:
 
 ---
 
-# 📂 Repository Structure
-
-```
-Swiggy-Sales-Analysis/
-│
-├── Swiggy_Sales_Analysis.ipynb
-├── swiggy_analysis.sql
-├── Swiggy_Sales_Analysis.pbix
-├── swiggy_data.xlsx
-├── dashboard.png
-├── README.md
-```
-
----
-
 # 🐍 Python Analysis
 
 Python was used for:
