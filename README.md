@@ -158,6 +158,6 @@ Hi, I'm **Yash Shinde**, an aspiring **Data Analyst** passionate about transform
 # 📬 Connect with Me
 
 - **GitHub:** https://github.com/Yash-2026
-- **LinkedIn:** https://www.linkedin.com/in/yash-shinde-bb1426344/
+- **LinkedIn:** www.linkedin.com/in/yash-shinde-b86545420
 
 ⭐ If you found this project useful, don't forget to star the repository.
