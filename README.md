@@ -112,9 +112,9 @@ The interactive dashboard includes:
 
 # 📷 Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
 
-![Dashboard](dashboard.png)
+
+![Swiggy Sales Dashboard](swiggy_dashboard.png)
 
 ---
 
